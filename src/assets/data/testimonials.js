@@ -1,0 +1,51 @@
+export const testimonials = [
+    {
+      id: 1,
+      imgSrc: 'src/assets/user.svg',
+      quote: 'This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com',
+      name: 'Gemma Nolen',
+      role: 'Google',
+      rating: 5,
+    },
+    {
+      id: 2,
+      imgSrc: 'src/assets/user.svg',
+      quote: 'This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com',
+      name: 'Gemma Nolen',
+      role: 'Google',
+      rating: 5,
+    },
+    {
+      id: 3,
+      imgSrc: 'src/assets/user.svg',
+      quote: 'This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com',
+      name: 'Gemma Nolen',
+      role: 'Google',
+      rating: 5,
+    },
+   {
+        id: 4,
+        imgSrc: 'src/assets/user.svg',
+        quote: 'This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com',
+        name: 'Gemma Nolen',
+        role: 'Google',
+        rating: 5,
+      },
+      {
+        id: 5,
+        imgSrc: 'src/assets/user.svg',
+        quote: 'This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com',
+        name: 'Gemma Nolen',
+        role: 'Google',
+        rating: 5,
+      }, 
+      {
+        id: 6,
+        imgSrc: 'src/assets/user.svg',
+        quote: 'This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com',
+        name: 'Gemma Nolen',
+        role: 'Google',
+        rating: 5,
+      },
+  ];
+  

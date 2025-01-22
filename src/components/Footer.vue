@@ -11,19 +11,19 @@
           </p>
           <div class="social-icons">
             <a href="https://discord.com" target="_blank">
-              <img src="@/assets/discord.png" alt="Discord" />
+              <img src="@/assets/discord.svg" alt="Discord" />
             </a>
             <a href="https://facebook.com" target="_blank">
-              <img src="@/assets/facebook.png" alt="Facebook" />
+              <img src="@/assets/facebook.svg" alt="Facebook" />
             </a>
             <a href="https://dribbble.com" target="_blank">
-              <img src="@/assets/dribbble.png" alt="Dribbble" />
+              <img src="@/assets/dribbble.svg" alt="Dribbble" />
             </a>
             <a href="https://instagram.com" target="_blank">
-              <img src="@/assets/instagram.png" alt="Instagram" />
+              <img src="@/assets/instagram.svg" alt="Instagram" />
             </a>
             <a href="https://behance.net" target="_blank">
-              <img src="@/assets/behance.png" alt="Behance" />
+              <img src="@/assets/behance.svg" alt="Behance" />
             </a>
           </div>
         </div>
@@ -49,6 +49,7 @@
   
   <style scoped>
   .footer {
+    font-family: 'Epilogue', sans-serif;
     background-color: #f5f5f5;
     padding: 2rem 0;
     width: 100%;

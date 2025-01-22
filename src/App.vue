@@ -1,9 +1,11 @@
 <template>
   <div id="app">
     <Header />
-    <main class="main-content">
-      <h1>Welcome</h1>
-      <p>To be countined.</p>
+    <main>
+      <LogoBar />
+      <SkillSection />
+      <GallerySection />
+      <TestimonialSection />
     </main>
     <Footer />
   </div>
@@ -12,15 +14,25 @@
 <script>
 import Header from './components/Header.vue';
 import Footer from './components/Footer.vue';
+import LogoBar from './components/LogoBar.vue';
+import SkillSection from './components/SkillSection.vue';
+import GallerySection from './components/GallerySection.vue';
+import TestimonialSection from './components/TestimonialSection.vue';
 
 export default {
   name: 'App',
   components: {
     Header,
     Footer,
+    LogoBar,
+    SkillSection,
+    GallerySection,
+    TestimonialSection,
   },
 };
 </script>
+
+
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700&display=swap');
